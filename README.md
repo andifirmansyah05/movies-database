@@ -1,6 +1,6 @@
-<h1>Website Movies Database</h1>
+<h1>Movies Database</h1>
 <p>
-  Website ini terinspirasi dari channel YouTube Web Programming UNPAS yang dapat dilihat <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-">disini.</a>
+  Project ini terinspirasi dari channel YouTube Web Programming UNPAS yang dapat dilihat <a href="https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-">disini.</a>
 </p>
 <p>
   Untuk menjalankan silahkan clone github ini karena API yang digunakan menggunakan protokol jaringan HTTP sehingga akan diblok oleh browser.
